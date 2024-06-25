@@ -18,3 +18,4 @@ prompt-toolkit>=3.0.13 # not directly required, pinned by Snyk to avoid a vulner
 pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
 tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
 werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
